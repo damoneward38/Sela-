@@ -1,0 +1,10 @@
+{
+  "name": "Sela Sovereign Architecture Fortress",
+  "description": "Air-gapped enterprise cyber orchestration, cognitive routing, cryptographic defense, and autonomous AST software self-healing platform.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
